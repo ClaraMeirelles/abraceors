@@ -19,6 +19,7 @@ export const StyledHeader = styled.nav`
             cursor: pointer;
             text-decoration: underline;
             color: #0ca121;
+            font-weight: bold;
         }
     }
 

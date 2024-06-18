@@ -15,7 +15,7 @@ export default function AboutUs() {
                 </p>
             </Section>
             <Section>
-                <img src={LogoProjeto} alt="Logo da campanha mostrando um ícone similar a um Quilt com as cores da bandeira do Rio Grande do Sul e abaixo está escrito 'Abrace o RS'" />
+                <img src={LogoProjeto} alt="Logo da campanha mostrando um ícone similar a um recorte de patchwork com as cores da bandeira do Rio Grande do Sul e abaixo está escrito 'Abrace o RS'" />
                 <h1>Sobre a campanha “Abrace o RS”:</h1>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

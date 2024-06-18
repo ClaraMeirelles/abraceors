@@ -8,7 +8,7 @@ export default function Home() {
     const navigate = useNavigate()
     return (
         <MainContainer>
-            <StyledLogo src={Logo} alt="Logo da campanha mostrando um ícone similar a um Quilt com as cores da bandeira do Rio Grande do Sul e abaixo está escrito 'Abrace o RS'" />
+            <StyledLogo src={Logo} alt="Logo da campanha mostrando um ícone similar a um recorte de patchwork com as cores da bandeira do Rio Grande do Sul e abaixo está escrito 'Abrace o RS'" />
             <DonationContainer>
                 <h1>Colchômetro</h1>
                 <DonationText>XXX colchas doadas</DonationText>

@@ -59,5 +59,7 @@ export const Menu = styled.nav`
     p:hover{
         text-decoration: underline;
         cursor: pointer;
+        color: #0ca121;
+        font-weight: bold;
     }
 `
