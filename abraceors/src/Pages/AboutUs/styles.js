@@ -16,7 +16,4 @@ export const Section = styled.section`
         width: 60%;
         max-width:30vh;
     }
-    a:hover{
-        color: #0ca121;
-    }
 `
