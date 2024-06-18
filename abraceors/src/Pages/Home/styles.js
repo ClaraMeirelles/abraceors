@@ -24,11 +24,19 @@ export const DonationContainer = styled.section`
     height: fit-content;
     gap: 8px;
     padding: 16px;
+    color: #10163a;
+    text-shadow: 0.1em 0.1em 0.05em #3166b1;
   /* bg */
   --s: 20px; /* control the size*/
-  --c1: #EE302F;
-  --c2: #00AB4E;
-  --c3: #FFCB04;
+  /* cores originais bandeira */
+  /* --c1: #EE302F; */
+  /* --c2: #00AB4E; */
+  /* --c3: #FFCB04; */
+  /* cores campanha */
+  /* Azul #0049ac */
+  --c1: #ee3a20;
+  --c2: #0ca121;
+  --c3: #fbcb29;
   
    --g: var(--s); /* gap between lines */
    background:
