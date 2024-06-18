@@ -8,6 +8,9 @@ export const StyledHeader = styled.nav`
     font-size: 1em;
     img{
         height: 10vh;
+        &:hover{
+            cursor: pointer;
+        }
     }
     p{
         border: 1px dotted black;
@@ -15,6 +18,7 @@ export const StyledHeader = styled.nav`
         &:hover{
             cursor: pointer;
             text-decoration: underline;
+            color: #0ca121;
         }
     }
 

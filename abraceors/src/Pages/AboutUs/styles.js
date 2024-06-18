@@ -5,7 +5,7 @@ export const MainContainer = styled.main`
 `
 
 export const Section = styled.section`
-    border: 1px dashed black;
+    border: 1px dashed #0ca121;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -15,5 +15,8 @@ export const Section = styled.section`
     img{
         width: 60%;
         max-width:30vh;
+    }
+    a:hover{
+        color: #0ca121;
     }
 `
