@@ -25,7 +25,7 @@ export const DonationContainer = styled.section`
     gap: 8px;
     padding: 16px;
     color: #10163a;
-    text-shadow: 0.1em 0.1em 0.05em #3166b1;
+    text-shadow: 0.1em 0.1em 0.05em #0049ac;
   /* bg */
   --s: 20px; /* control the size*/
   /* cores originais bandeira */
@@ -49,7 +49,9 @@ export const DonationContainer = styled.section`
 
 export const DonationText = styled.p`
     font-family: "Just Me Again Down Here", cursive;
+    
     font-size: 3em;
+    color: white;
 `
 
 export const Menu = styled.nav`

@@ -11,7 +11,7 @@ export default function Home() {
             <StyledLogo src={Logo} alt="Logo da campanha mostrando um ícone similar a um recorte de patchwork com as cores da bandeira do Rio Grande do Sul e abaixo está escrito 'Abrace o RS'" />
             <DonationContainer>
                 <h1>Colchômetro</h1>
-                <DonationText>XXX colchas doadas</DonationText>
+                <DonationText>326 colchas doadas</DonationText>
             </DonationContainer>
             <Menu>
                 <p onClick={() => goToAbout(navigate)}>Quem Somos</p>
